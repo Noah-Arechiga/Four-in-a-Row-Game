@@ -1,4 +1,4 @@
-# 🎮 Connect 4 (Python-Based Game)
+# 🎮 4 in a Row (Python-Based Game)
 Welcome to my Python-based Connect 4 program!<br>
 Feel free to play with a friend, and connect 4 in a row, vertically, horizontally, and diagonally.
 
